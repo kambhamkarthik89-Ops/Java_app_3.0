@@ -1,4 +1,4 @@
-@Library('my-shared-library@main/vars') _
+@Library('my-shared-library@main') _
 
 pipeline{
 
